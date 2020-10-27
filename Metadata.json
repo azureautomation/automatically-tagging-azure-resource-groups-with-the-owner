@@ -1,0 +1,20 @@
+{
+    "Author": "knom27",
+    "ContentSize": 3407,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automatically-tagging-azure-resource-groups-with-the-owner/master/AutoTagResources-generic.ps1",
+    "DownloadCount": 1731,
+    "Id": "Automatically-Azure-fc5f1443",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 105,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-12-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "An Azure Automation Runbook, to automatically tag Azure Resource Groups with the owner alias.Create a new Azure Automation RunbookCreate an AzureRunAsConnectionUse the runbook supplied here (I would recommend a daily schedule)This is how the runbook works...Get all resour",
+    "Title": "Automatically tagging Azure Resource Groups with the owner",
+    "UpdatedDate": "2016-12-15T00:00:00",
+    "Url": "https://github.com/azureautomation/automatically-tagging-azure-resource-groups-with-the-owner",
+    "UserTags": "Tags, Azure Automation, Azure Resource Manager"
+}
